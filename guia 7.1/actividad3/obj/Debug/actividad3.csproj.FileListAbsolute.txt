@@ -1,0 +1,7 @@
+C:\Users\soled\source\repos\guia 7.1\actividad3\bin\Debug\actividad3.exe.config
+C:\Users\soled\source\repos\guia 7.1\actividad3\bin\Debug\actividad3.exe
+C:\Users\soled\source\repos\guia 7.1\actividad3\bin\Debug\actividad3.pdb
+C:\Users\soled\source\repos\guia 7.1\actividad3\obj\Debug\actividad3.csproj.AssemblyReference.cache
+C:\Users\soled\source\repos\guia 7.1\actividad3\obj\Debug\actividad3.csproj.CoreCompileInputs.cache
+C:\Users\soled\source\repos\guia 7.1\actividad3\obj\Debug\actividad3.exe
+C:\Users\soled\source\repos\guia 7.1\actividad3\obj\Debug\actividad3.pdb
